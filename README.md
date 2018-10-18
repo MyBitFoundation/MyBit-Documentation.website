@@ -1,5 +1,7 @@
 ---
-description: A gentle introduction to the MyBit ecosystem.
+description: >-
+  A gentle introduction to the MyBit ecosystem, and how its changing the
+  landscape of the wealth management industry.
 ---
 
 # Welcome to MyBit
