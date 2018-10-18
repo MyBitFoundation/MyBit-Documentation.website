@@ -40,11 +40,19 @@ To easily interact with the MyBit Network protocol, the MyBit Foundation has dev
 
 In total, there are 5 major components of the MyBit SDK:
 
-* **UI Kit**: A series of UI Web components that allows anyone to build WEMDapps quickly.
-* **Network.js**: The main JavaScript-based web client for interacting with the MyBit Network protocol.
-* **Contracts**: All the Ethereum Solidity Smart Contracts that compress the business logic of the MyBit Network.
-* **Chain**: Our pre-compiled local instance of the MyBit Network for natural development.
-* **Hello Network**: The equivalent of a “Hello World” application using the MyBit Network.
+* \*\*\*\*[**UI Kit**](https://developer.mybit.io/ui): A series of UI Web components that allows anyone to build WEMDapps quickly.
+* \*\*\*\*[**Network.js**](https://developer.mybit.io/web): The main JavaScript-based web client for interacting with the MyBit Network protocol.
+* \*\*\*\*[**Contracts**](https://developer.mybit.io/network): All the Ethereum Solidity Smart Contracts that compress the business logic of the MyBit Network.
+* \*\*\*\*[**Chain**](https://developer.mybit.io/chain): Our pre-compiled local instance of the MyBit Network for natural development.
+* \*\*\*\*[**Hello Network**](https://developer.mybit.io/hello-network): The equivalent of a “Hello World” application using the MyBit Network.
+
+You can access the most up-to-date version of the following components through the popular web package manager repository [NPM](https://www.npmjs.com/):
+
+* [Contracts](https://www.npmjs.com/package/@mybit/contracts): Latest working version is 0.1.9
+* [Network.js](https://www.npmjs.com/package/@mybit/network.js): Latest working version is 0.0.5
+* [Chain](https://www.npmjs.com/package/@mybit/chain): Latest working version is 0.1.8
+
+Please bear in mind all the components are still under development and should not be considered ready for production.
 
 ## Why is it valuable?
 
