@@ -4,10 +4,10 @@
 
 ## MyBit Ecosystem
 
-* [Overview](mybit-ecosystem-1/overview.md)
-* [MyBit Go](mybit-ecosystem-1/mybit-go.md)
-* [MYDAX](mybit-ecosystem-1/mydax.md)
-* [MyBit Network](mybit-ecosystem-1/mybit-network.md)
+* [Overview](mybit-ecosystem/overview.md)
+* [MyBit Go](mybit-ecosystem/mybit-go.md)
+* [MYDAX](mybit-ecosystem/mydax.md)
+* [MyBit Network](mybit-ecosystem/mybit-network.md)
 
 ## MyBit SDK
 
