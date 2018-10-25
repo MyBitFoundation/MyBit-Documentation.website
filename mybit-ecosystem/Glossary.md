@@ -1,5 +1,7 @@
 ## Glossary
 
+Glossary of terms used in the MyBit Documentation portal.
+
 | Term | Definition |
 | --- | --- |
 |API contract   | API contract used to easily fetch variables from MyBit network. It allows easy interaction wiht the protocol.   |
