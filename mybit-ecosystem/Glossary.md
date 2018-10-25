@@ -1,6 +1,6 @@
 ## Glossary
 
-|  Term | Definition |
+| Term | Definition |
 | --- | --- |
 |API contract   | API contract used to easily fetch variables from MyBit network. It allows easy interaction wiht the protocol.   |
 |Access contracts    |  Set of network contracts used to manage user access levels and restrictions based on roles. See contract categories.|
@@ -14,9 +14,9 @@
 |Asset exchange   | Decentralised exchange of assets created by the asset manager. It allows trading of asset orders betweeen investors. Also refered to as AssetExchange contract. See MYDAX. |
 |Asset funding   | Function enabling investors to finance an asset ID created through the crowdsale by the asset manager. It passes the invested amount and the investor address associated.|
 |Contract address   | See address. |
-|Contracts   |  All the Ethereum Solidity Smart Contracts that compress the business logic of the MyBit Network |
 |Contract categories   | Categories of smart contracts underlying MyBit SDK network. e.g. Crowdsale contract, Access contract, Database contract etc.  |
 |Contract management   | To set a platform and create digital assets contracts must be registered in a ContractManager before getting recorded in the Database contract. Platform owners add new contracts. Contract addition and change to contract state requires approval by users.  |
+|Contracts   |  All the Ethereum Solidity Smart Contracts that compress the business logic of the MyBit Network |
 |Contracts   |  See smart contracts. |
 |Crowdsale contracts   | Contracts involved in funding new assets. Asset contracts can be funded in Ether or ERC20 tokens. Funding a crowdsale contract deploys a DividendToken, each Wei/Token representing a share in the asset. See contract categories.   |
 |Database contracts   |  Contracts related to the storing of data on the blockchain. All essential data for the ecosystem is stored here. Write privileges to the database are determined by the contract manager, which is managed by the owner/owners of the platform. See contract categories. |
@@ -34,7 +34,6 @@
 |Investor   |  Also called asset investor.  |
 |MYDAX  | A decentralised exchange, part of MyBit ecosystem. It provides liquidity and trading opportunities of digital assets. See asset exchange. |
 |MicroDapps   | Applications built with the MyBitUI library. e.g.MyBit Trust |
-|Token minting   | Token process where the total supply starts at 0 and all tokens are created by the mint() function. This is used for asset tokens where investors purchase crowdsale assets.  |
 |Multisig   | Contract which gives owners access to function execution based on majority approval.  |
 |MyBit Chain| Pre-compiled local instance of the MyBit Network for application development.|
 |MyBit Go  | A decentralised investing platform, part of MyBit ecosystem. It allows direct investment in assets crowdsales and receive income on ROI in the form of dividends. |
@@ -58,9 +57,10 @@
 |Token burning   | The total supply of tokens can be decreased by burning existing tokens, called burning. Tokens can be burnt by a user or another contract as long as approval has been given.  |
 |Token contracts   |  Token contracts are used to represent fungible divisible assets, which can be burnable, mintable and receive income. See contract categories. |
 |Token fee   | Refered to as the asset manager fee paid for creating the crowdsale, ensuring asset maintenance and delivering return on investment.  |
+|Token minting   | Token process where the total supply starts at 0 and all tokens are created by the mint() function. This is used for asset tokens where investors purchase crowdsale assets.  |
+|Transaction | A transaction is a message that is sent from one account to another account (which might be the same or the special zero-account, see below). It can include binary data (its payload) and Ether.   |
 |Truffle ganache   | Personal blockchain for Ethereum development. It can be used to run tests, execute commands and inspect contract state.  |
 |UI Kit   | See MyBit UI.  |
 |Wealth Management Decentralised Application (WMDApp) | Any application that can transfer, manage, fund and control the representation of digital assets through Ethereum Smart Contracts.  |
 |Web3   | Ethereum JavaScript API. web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection.   |
 |Yarn   |  A JavaScript Package Manager. |
-|Transaction | A transaction is a message that is sent from one account to another account (which might be the same or the special zero-account, see below). It can include binary data (its payload) and Ether.   |
