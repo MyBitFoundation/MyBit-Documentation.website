@@ -10,7 +10,3 @@ description: >-
 
 The MyBit Foundation is a Blockchain company working to modernise the wealth management industry by developing the a series of applications and protocols that make up the MyBit Network.
 
-
-
-
-

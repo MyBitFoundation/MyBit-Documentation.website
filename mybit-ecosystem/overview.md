@@ -1,6 +1,6 @@
 # Overview
 
-## What is the MyBit Ecosystem? {#what-is-the-mybit-ecosystem}
+## What is the MyBit Ecosystem? <a id="what-is-the-mybit-ecosystem"></a>
 
 The MyBit Ecosystem is defined by the following:
 

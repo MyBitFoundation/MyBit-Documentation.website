@@ -8,6 +8,7 @@
 * [MyBit Go](mybit-ecosystem/mybit-go.md)
 * [MYDAX](mybit-ecosystem/mydax.md)
 * [MyBit Network](mybit-ecosystem/mybit-network.md)
+* [Glossary](mybit-ecosystem/glossary.md)
 
 ## MyBit SDK
 

@@ -1,17 +1,10 @@
----
-description: >-
-  The MyBit Software Development Kit (SDK) is a suite of Smart Contracts,
-  JavaScript classes, and User Interface (UI) libraries that allows developers
-  to build wealth management DApps.
----
-
 # Introduction
 
 ## What is the MyBit SDK?
 
 To easily interact with the MyBit Network protocol, the MyBit Foundation has developed a Software Development Kit \(SDK\). The MyBit SDK is composed of a series of Smart Contracts, JavaScript classes and User Interface \(UI\) libraries allowing developers to build wealth management DApps on top of MyBit Network. All of the Smart Contracts are the open source equivalent of the MyBit Network protocol, allowing anyone to deploy a local instance of the network, which we also have pre-compiled for natural local development.
 
-## Why is it valuable? {#why-is-it-valuable}
+## Why is it valuable? <a id="why-is-it-valuable"></a>
 
 MyBit SDK empowers developers to build great WM DApps in an inclusive, diverse and global digital asset wealth ecosystem while abstracting away complicated protocol operations like asset creation and revenue redistribution. MyBit SDK is:
 
