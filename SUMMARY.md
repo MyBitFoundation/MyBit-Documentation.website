@@ -5,7 +5,7 @@
 ## MyBit Ecosystem
 
 * [Overview](mybit-ecosystem/overview.md)
-* [MyBit Go](mybit-ecosystem/mybit-go.md)
+* [MyBit Version 2](mybit-ecosystem/mybit-go.md)
 * [MYDAX](mybit-ecosystem/mydax.md)
 * [MyBit Network](mybit-ecosystem/mybit-network.md)
 * [Glossary](mybit-ecosystem/glossary.md)
